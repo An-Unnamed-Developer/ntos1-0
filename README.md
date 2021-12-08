@@ -3,4 +3,4 @@ A linux distro based on Debian Linux.
 All made by
 # NT Corp!
 
-\[Currently canceled.]
+[# Currently canceled.]
